@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Cristian from Spain but I've been living in Berlin for many years.<br><br>🔭 I’m training as a Software Developer (IHK) @DeveloperAkademie<br><br>📚 Learning JS, TS, Angular, Python, Docker & AI workflows<br><br>⚡ I like experimenting with automation and building mini‑projects</p>
+<p align="left">I'm Cristian from Spain and I've been living in Berlin for many years.<br><br>🔭 I’m training as a Software Developer (IHK) @DeveloperAkademie<br><br>📚 Learning JS, TS, Angular, Python, Docker & AI workflows<br><br>⚡ I like experimenting with automation and building mini‑projects</p>
 
 ###
 
